@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/cra-minimal/static/css/main.cff2a288.chunk.css",
+    "main.js": "/cra-minimal/static/js/main.aa0beead.chunk.js",
+    "main.js.map": "/cra-minimal/static/js/main.aa0beead.chunk.js.map",
+    "runtime-main.js": "/cra-minimal/static/js/runtime-main.41fe693e.js",
+    "runtime-main.js.map": "/cra-minimal/static/js/runtime-main.41fe693e.js.map",
+    "static/js/2.9d47b2a4.chunk.js": "/cra-minimal/static/js/2.9d47b2a4.chunk.js",
+    "static/js/2.9d47b2a4.chunk.js.map": "/cra-minimal/static/js/2.9d47b2a4.chunk.js.map",
+    "index.html": "/cra-minimal/index.html",
+    "static/css/main.cff2a288.chunk.css.map": "/cra-minimal/static/css/main.cff2a288.chunk.css.map",
+    "static/js/2.9d47b2a4.chunk.js.LICENSE.txt": "/cra-minimal/static/js/2.9d47b2a4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41fe693e.js",
+    "static/js/2.9d47b2a4.chunk.js",
+    "static/css/main.cff2a288.chunk.css",
+    "static/js/main.aa0beead.chunk.js"
+  ]
+}

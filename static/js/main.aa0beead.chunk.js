@@ -1,0 +1,2 @@
+(this["webpackJsonpcra-minimal"]=this["webpackJsonpcra-minimal"]||[]).push([[0],{10:function(e,n,i){"use strict";i.r(n);var c=i(1),t=i.n(c),s=i(3),a=i.n(s),r=(i(8),i(0)),l=function(){return Object(r.jsx)("div",{className:"fullHeight",children:Object(r.jsx)("div",{className:"main",children:"Fill me in"})})};a.a.render(Object(r.jsx)(t.a.StrictMode,{children:Object(r.jsx)(l,{})}),document.getElementById("root"))},8:function(e,n,i){}},[[10,1,2]]]);
+//# sourceMappingURL=main.aa0beead.chunk.js.map
